@@ -2,3 +2,8 @@ cicids2017_balanced.csv filter=lfs diff=lfs merge=lfs -text
 cicids2017_database/Friday-WorkingHours-Morning.csv filter=lfs diff=lfs merge=lfs -text
 cicids2017_database/Friday-WorkingHours-Afternoon-DDos.csv filter=lfs diff=lfs merge=lfs -text
 cicids2017_database/Friday-WorkingHours-Afternoon-PortScan.csv filter=lfs diff=lfs merge=lfs -text
+cicids2017_database/Thursday-WorkingHours-Morning-WebAttacks.csv filter=lfs diff=lfs merge=lfs -text
+cicids2017_database/Tuesday-WorkingHours.csv filter=lfs diff=lfs merge=lfs -text
+cicids2017_database/Wednesday-workingHours.csv filter=lfs diff=lfs merge=lfs -text
+cicids2017_database/Monday-WorkingHours.csv filter=lfs diff=lfs merge=lfs -text
+cicids2017_database/Thursday-WorkingHours-Afternoon-Infilteration.csv filter=lfs diff=lfs merge=lfs -text
