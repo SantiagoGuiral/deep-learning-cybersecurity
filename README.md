@@ -8,7 +8,7 @@ En este repositorio se presenta el proyecto final del curso de Deep Learning ofr
 
 ## Enlace de Youtube
 
-[youtube.com/](youtube.com/)
+[[youtube.com/](https://youtu.be/fEwNMzNNVWc)]([youtube.com/](https://youtu.be/fEwNMzNNVWc))
 
 ## Contact
 
